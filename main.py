@@ -23,10 +23,10 @@ import tweepy
 from requests import *
 
 # API keyws that yous saved earlier
-api_key = "L2UgIMJ4bu2p3LWYUe9hfqfcs"
-api_secrets = "SRCsuznWEpvJWn5oXUKgEkRnVbvIfyHbJwfakwgJxKoe2izBmg"
-access_token = "800735634197336065-nmbWGGnKBuwkTP4tJTyXnWgpKhB4lBo"
-access_secret = "avpxa6YpJt46XB9mteUjLYsMQPLJJnC6UrXbjHbjVqp8v"
+api_key = "ENTER API KEY"
+api_secrets = "ENTER SECRET KEY"
+access_token = "ENTER ACCESS KEY"
+access_secret = "ENTER ACCESS SECRET KEY"
 
 # Authenticate to Twitter
 auth = tweepy.OAuthHandler(api_key, api_secrets)
